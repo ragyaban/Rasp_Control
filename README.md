@@ -1,3 +1,1 @@
-# hell-world
-To learn what is git hub.
-I am curious about github. I am planning to create an visual database interface for my job.
+# Control a RC car with NRF24L01 modules with raspberry pi zero nd arduino
